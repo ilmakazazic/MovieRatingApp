@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRatingApp", "MovieRatingApp.csproj", "{0AD14697-7633-4CCA-AD61-D11B652AD883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRatingApp.Model", "..\MovieRatingApp.Model\MovieRatingApp.Model.csproj", "{0EDB8887-6D4C-483F-9C0C-D4B6636B5649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD14697-7633-4CCA-AD61-D11B652AD883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD14697-7633-4CCA-AD61-D11B652AD883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD14697-7633-4CCA-AD61-D11B652AD883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD14697-7633-4CCA-AD61-D11B652AD883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDB8887-6D4C-483F-9C0C-D4B6636B5649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDB8887-6D4C-483F-9C0C-D4B6636B5649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDB8887-6D4C-483F-9C0C-D4B6636B5649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDB8887-6D4C-483F-9C0C-D4B6636B5649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA08C94-C7C0-4F67-8EC3-4DE62A5A2679}
+	EndGlobalSection
+EndGlobal

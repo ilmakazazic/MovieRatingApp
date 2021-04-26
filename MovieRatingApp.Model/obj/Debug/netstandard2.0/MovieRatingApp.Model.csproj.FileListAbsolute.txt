@@ -1,0 +1,9 @@
+C:\Users\Amila hp20\Desktop\MistralTask\MovieRatingApp.Model\bin\Debug\netstandard2.0\MovieRatingApp.Model.deps.json
+C:\Users\Amila hp20\Desktop\MistralTask\MovieRatingApp.Model\bin\Debug\netstandard2.0\MovieRatingApp.Model.dll
+C:\Users\Amila hp20\Desktop\MistralTask\MovieRatingApp.Model\bin\Debug\netstandard2.0\MovieRatingApp.Model.pdb
+C:\Users\Amila hp20\Desktop\MistralTask\MovieRatingApp.Model\obj\Debug\netstandard2.0\MovieRatingApp.Model.csprojAssemblyReference.cache
+C:\Users\Amila hp20\Desktop\MistralTask\MovieRatingApp.Model\obj\Debug\netstandard2.0\MovieRatingApp.Model.AssemblyInfoInputs.cache
+C:\Users\Amila hp20\Desktop\MistralTask\MovieRatingApp.Model\obj\Debug\netstandard2.0\MovieRatingApp.Model.AssemblyInfo.cs
+C:\Users\Amila hp20\Desktop\MistralTask\MovieRatingApp.Model\obj\Debug\netstandard2.0\MovieRatingApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\Amila hp20\Desktop\MistralTask\MovieRatingApp.Model\obj\Debug\netstandard2.0\MovieRatingApp.Model.dll
+C:\Users\Amila hp20\Desktop\MistralTask\MovieRatingApp.Model\obj\Debug\netstandard2.0\MovieRatingApp.Model.pdb
