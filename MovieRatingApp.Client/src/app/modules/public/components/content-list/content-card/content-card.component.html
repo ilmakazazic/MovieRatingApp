@@ -1,0 +1,28 @@
+<div class="container">
+  <div class="movie-container">
+    <div class="image-container">
+        <img src={{contentItem.photo}} alt="Cover" />
+    </div>
+    <div class="content-container">
+      <h2>
+        {{ contentItem?.title }}
+      </h2>
+      <p>
+        {{ contentItem?.description }}
+      </p>
+      <p>
+        {{ contentItem?.releaseDate | date: "yyyy" }}
+      </p>
+      <span>Actors: </span>
+      <span *ngFor="let cast of castList">
+        {{ cast.actor.firstName }} {{ cast.actor.lastName }} ({{ cast.role }}),
+      </span> 
+      <div>
+        <br/>
+        <app-rating [contentId]="contentItem.contentId" [contentAverageRating]="contentItem.ratingPoints"></app-rating>
+        <p>Average rating: {{ contentItem.ratingPoints | number:'1.2-2' }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+

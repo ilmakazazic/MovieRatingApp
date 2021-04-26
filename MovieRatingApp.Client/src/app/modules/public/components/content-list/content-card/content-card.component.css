@@ -1,0 +1,25 @@
+.container{
+    margin-bottom: 3em;
+    padding: 2em;
+}
+
+.image-container{
+    width: 125px;
+    height: 200px;
+    float:left;
+    margin: auto;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+img {
+    width: 100%;
+}
+
+.content-container{
+    max-width: 50em;
+    overflow: hidden
+}
+
+p, span{
+    font-size: 14px;
+}

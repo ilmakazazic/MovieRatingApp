@@ -1,0 +1,9 @@
+.mouseHover {
+    color: rgb(255, 196, 0);
+}
+
+mat-icon {
+    color: rgb(161, 161, 161);
+
+    cursor: pointer;
+}

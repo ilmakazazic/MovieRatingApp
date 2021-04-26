@@ -1,0 +1,7 @@
+<mat-icon *ngFor="let i of maxRatingArray; let index = index"
+(mouseenter)="handleMouseEnter(index)"
+(mouseleave)="handleMouseLeave()"
+(click)="addRatingPoints(index-1)"
+[ngClass]="{mouseHover: SelectedRatingPoints > index || contentAverageRating-1 >= index}">
+star
+</mat-icon>

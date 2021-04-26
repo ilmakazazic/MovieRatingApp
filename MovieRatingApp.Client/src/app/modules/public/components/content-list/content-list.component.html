@@ -1,0 +1,7 @@
+<div *ngFor="let c of content">
+  <div>
+    <app-content-card [contentItem]="c"></app-content-card>
+  </div>
+</div>
+
+<button mat-raised-button color="primary" (click)="loadMore()">Load More...</button>
